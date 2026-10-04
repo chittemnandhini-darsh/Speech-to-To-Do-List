@@ -156,6 +156,11 @@ The application will display:
 2. Detected Tasks
 
 ---
+<img width="935" height="350" alt="Screenshot 2026-10-04 142812" src="https://github.com/user-attachments/assets/a586e12d-131a-4a86-8482-6669dc283e5c" />
+
+<img width="924" height="188" alt="Screenshot 2026-10-04 142836" src="https://github.com/user-attachments/assets/ba5e5878-0a75-4f52-9e8b-94edcadd005e" />
+
+<img width="925" height="236" alt="Screenshot 2026-10-04 142852" src="https://github.com/user-attachments/assets/4a793b5b-7f8a-4454-991e-8ff95809465b" />
 
 ## 🧪 Testing Example
 
@@ -188,9 +193,5 @@ Speech-to-To-Do-List/
 ├── sample_audio.wav
 └── README.md
 
-<img width="935" height="350" alt="Screenshot 2026-10-04 142812" src="https://github.com/user-attachments/assets/a586e12d-131a-4a86-8482-6669dc283e5c" />
 
-<img width="924" height="188" alt="Screenshot 2026-10-04 142836" src="https://github.com/user-attachments/assets/ba5e5878-0a75-4f52-9e8b-94edcadd005e" />
-
-![Uploading Screenshot 2026-10-04 142852.png…]()
 
